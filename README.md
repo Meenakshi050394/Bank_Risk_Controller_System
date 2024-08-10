@@ -10,14 +10,14 @@ The objective is to predict whether a customer will default on a loan based on v
 This project aims to develop a predictive model to determine the likelihood of customer default using historical data,whether a customer will default on a loan based on various features related to their credit history, personal information, and financial status.
 
 ## Take Away Skills
-PYTHON
-DATA PREPROCESS
-EDA
-PANDAS
-NUMPY
-VISUALIZATION
-MACHINE LEARNING
-STREAMLIT GUI
+#### PYTHON
+#### DATA PREPROCESS
+#### EDA
+#### PANDAS
+#### NUMPY
+#### VISUALIZATION
+#### MACHINE LEARNING
+#### STREAMLIT GUI
 
 ## Data Description
 The dataset provided contains multiple features that may influence the likelihood of a customer defaulting on a loan. These features include:
