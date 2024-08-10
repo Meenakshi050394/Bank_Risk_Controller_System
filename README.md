@@ -33,7 +33,7 @@ Employment Details: Employment status, etc. The target variable, TARGET, is bina
 #### Exploratory Data Analysis (EDA): Understand the distribution of data, identify important features, and detect any patterns or correlations that might help in prediction.
 #### Model Development: Train various classification models to predict the target variable, including but not limited to Logistic Regression, Decision Trees, Random Forest, Gradient Boosting, and Neural Networks.
 #### Model Evaluation: Assess the performance of the models using appropriate metrics such as accuracy, precision, recall, F1 score, and ROC-AUC score. Select the best-performing model for deployment.
-#### Performing sentiment analysis on randome based text using VADER (Valence Aware Dictionary and sEntiment Reasoner) Transfor learning to uncover insights and improvement natural language processing techniques.
+#### Sentiment Analysis: Performing sentiment analysis on randome based text using VADER (Valence Aware Dictionary and sEntiment Reasoner) Transfor learning to uncover insights and improvement natural language processing techniques.
 
 ## Conclusion
 The expected outcome of this project is a robust predictive model that can accurately identify customers who are likely to default on their loans. This will enable the financial institution to proactively manage their credit portfolio, implement targeted interventions, and ultimately reduce the risk of loan defaults.
