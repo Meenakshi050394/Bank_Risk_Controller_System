@@ -38,9 +38,6 @@ Employment Details: Employment status, etc. The target variable, TARGET, is bina
 ## Conclusion
 The expected outcome of this project is a robust predictive model that can accurately identify customers who are likely to default on their loans. This will enable the financial institution to proactively manage their credit portfolio, implement targeted interventions, and ultimately reduce the risk of loan defaults.
 
-## License:
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
 ## Contact:
 📧 Email: meenakshi.sriram18@gmail.com
 
